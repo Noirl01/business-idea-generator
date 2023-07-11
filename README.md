@@ -18,6 +18,7 @@ Created using Next.js OpenAI Boilerplate and ChatGPT. Generates a Business Idea 
 - Clone the repository
 - Get into the directory of the repository
 - Run npm install
+- Rename .envexample or Create .env file and place Your OpenAI API Key `OPENAI_API_KEY=YOURKEYHERE`
 - To start in dev mode `npm run dev`
 - To Build use `npm run build`
 
