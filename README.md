@@ -23,4 +23,4 @@ Created using Next.js OpenAI Boilerplate and ChatGPT. Generates a Business Idea 
 
 ### Copyrights
 
-- NextJS ChatGPT Boilerplate Author: https://github.com/dacadeorg/nextjs-openai-boilerplate/
+- NextJS ChatGPT Boilerplate Author: https://github.com/dacadeorg/nextjs-openai-boilerplate
